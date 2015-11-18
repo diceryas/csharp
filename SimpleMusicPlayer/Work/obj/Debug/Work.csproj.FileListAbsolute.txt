@@ -1,0 +1,12 @@
+D:\Programming\C#\Work\Work\bin\Debug\Work.exe.config
+D:\Programming\C#\Work\Work\bin\Debug\Work.exe
+D:\Programming\C#\Work\Work\bin\Debug\Work.pdb
+D:\Programming\C#\Work\Work\obj\Debug\Work.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Work\Work\obj\Debug\Work.Form1.resources
+D:\Programming\C#\Work\Work\obj\Debug\Work.Properties.Resources.resources
+D:\Programming\C#\Work\Work\obj\Debug\Work.csproj.GenerateResource.Cache
+D:\Programming\C#\Work\Work\obj\Debug\Work.exe
+D:\Programming\C#\Work\Work\obj\Debug\Work.pdb
+C:\Users\youansheng\Desktop\S20+尤安升+SimpleMusicPlayer\Work\bin\Debug\Work.exe.config
+C:\Users\youansheng\Desktop\S20+尤安升+SimpleMusicPlayer\Work\obj\Debug\Work.exe
+C:\Users\youansheng\Desktop\S20+尤安升+SimpleMusicPlayer\Work\obj\Debug\Work.pdb

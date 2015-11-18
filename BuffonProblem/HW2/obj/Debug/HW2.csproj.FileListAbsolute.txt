@@ -1,0 +1,12 @@
+D:\Programming\C#\HW2\HW2\bin\Debug\HW2.exe.config
+D:\Programming\C#\HW2\HW2\bin\Debug\HW2.exe
+D:\Programming\C#\HW2\HW2\bin\Debug\HW2.pdb
+D:\Programming\C#\HW2\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
+D:\Programming\C#\HW2\HW2\obj\Debug\HW2.Form1.resources
+D:\Programming\C#\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+D:\Programming\C#\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.Cache
+D:\Programming\C#\HW2\HW2\obj\Debug\HW2.exe
+D:\Programming\C#\HW2\HW2\obj\Debug\HW2.pdb
+C:\Users\youansheng\Desktop\C#编程作业\S15+尤安升+1300013023+BuffonProblem\HW2\bin\Debug\HW2.exe.config
+C:\Users\youansheng\Desktop\C#编程作业\S15+尤安升+1300013023+BuffonProblem\HW2\obj\Debug\HW2.exe
+C:\Users\youansheng\Desktop\C#编程作业\S15+尤安升+1300013023+BuffonProblem\HW2\obj\Debug\HW2.pdb

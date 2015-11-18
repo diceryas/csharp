@@ -1,0 +1,10 @@
+D:\Programming\C#\HomeWork\HomeWork\bin\Release\HomeWork.exe.config
+D:\Programming\C#\HomeWork\HomeWork\bin\Release\HomeWork.exe
+D:\Programming\C#\HomeWork\HomeWork\bin\Release\HomeWork.pdb
+D:\Programming\C#\HomeWork\HomeWork\obj\Release\HomeWork.Transfer.resources
+D:\Programming\C#\HomeWork\HomeWork\obj\Release\HomeWork.Login.resources
+D:\Programming\C#\HomeWork\HomeWork\obj\Release\HomeWork.MainForm.resources
+D:\Programming\C#\HomeWork\HomeWork\obj\Release\HomeWork.Properties.Resources.resources
+D:\Programming\C#\HomeWork\HomeWork\obj\Release\HomeWork.csproj.GenerateResource.Cache
+D:\Programming\C#\HomeWork\HomeWork\obj\Release\HomeWork.exe
+D:\Programming\C#\HomeWork\HomeWork\obj\Release\HomeWork.pdb
